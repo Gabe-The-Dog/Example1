@@ -18,3 +18,5 @@ $man2->salary = 2000;
 echo $man1->salary + $man2->salary;
 echo '<br>';
 echo $man1->age + $man2->age;
+
+//Gabe
